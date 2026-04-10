@@ -1,23 +1,23 @@
 Q1. What is your first and last name? (This is important so that we can link your GitHub username to you.)
 
-A1. <WRITE YOUR ANSWER TO Q1 HERE>
+A1. Elijah Woolley, Student ID is 934666935
 
 Q2. Do you have any programming experience? If so, how much, and what programming languages have you used?
 
-A2. <WRITE YOUR ANSWER TO Q2 HERE>
+A2. I dont have any practical programming experience, but ive been around programming most of my life so some things might be familiar, but i cant say for sure what. 
 
 Q3. Do you have experience writing code in C++?
 
-A3. <WRITE YOUR ANSWER TO Q3 HERE>
+A3. No
 
 Q4. How do you think learning to solve computational problems and write programs could benefit an engineer, regardless of their field?
 
-A4. <WRITE YOUR ANSWER TO Q4 HERE>
+A4. Almost all if not all engineering fields use computers, and as such deal with code in some way shape or for, but even if you wish to ignore code entirely, the skills built help to understand problems and your solutions to said problems on a deeper more complex level, working through it systematically instead of as a bigger picture. It helps break problems down to their components. 
 
 Q5. Do you think learning to solve computational problems and write programs could benefit you in everyday life? If so, how?
 
-A5. <WRITE YOUR ANSWER TO Q5 HERE>
+A5. Yes, it would help break down tasks into more digestible parts of a larger whole, as well as figure out ways to solve minor roadblocks that may seem big if i think about them from other perspectives
 
 Q6. We may have time for a special topics lecture at the end of the term, depending on how the term unfolds. Are there any special topics related to computer science that you're curious about? (e.g., an introduction to machine learning, computer graphics, object oriented programming, functional programming, frontend development, backend development, databases, cloud development, mobile app development, etc.)
 
-A6. <WRITE YOUR ANSWER TO Q6 HERE>
+A6. I like the idea of mobile app development, because it has such a wide range of uses but still is a relatively narrow concept.
